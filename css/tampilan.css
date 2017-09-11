@@ -1,0 +1,13 @@
+th,img{
+	text-align: center;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+	border:1px solid #ddd;
+	text-align: left;
+}
+th, td{
+	padding: 5px;
+}
+
